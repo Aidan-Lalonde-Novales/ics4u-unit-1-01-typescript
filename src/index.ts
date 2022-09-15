@@ -10,10 +10,11 @@
 import promptSync from 'prompt-sync'
 
 const prompt = promptSync()
+const fiftyFive = 55
 
 const logLengthString = prompt('How long are your logs (m)? ')
 const logLength = parseFloat(logLengthString)
-const truckCapacity = 1100 / 20 / logLength
+const truckCapacity = fiftyFive / logLength
 
 console.log(`You can fit ${truckCapacity} logs in a 1100kg capacity truck.`)
 
