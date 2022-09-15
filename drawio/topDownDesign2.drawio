@@ -30,7 +30,7 @@
                 <mxCell id="2" value="log_weight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="270" y="40" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Sq_mkEEuAlfCt_j49eV2-15" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="Sq_mkEEuAlfCt_j49eV2-13">
+                <mxCell id="Sq_mkEEuAlfCt_j49eV2-15" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="Sq_mkEEuAlfCt_j49eV2-13" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="330" y="220"/>
@@ -46,7 +46,7 @@
                 <mxCell id="4" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" y="140" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Sq_mkEEuAlfCt_j49eV2-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="Sq_mkEEuAlfCt_j49eV2-10">
+                <mxCell id="Sq_mkEEuAlfCt_j49eV2-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="Sq_mkEEuAlfCt_j49eV2-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -55,10 +55,10 @@
                 <mxCell id="9" value="print truckCapacity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Sq_mkEEuAlfCt_j49eV2-10" value="get logLength" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="Sq_mkEEuAlfCt_j49eV2-10" value="get logLength" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Sq_mkEEuAlfCt_j49eV2-13" value="truckCapacity = (1100 / 22) / logLength" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="Sq_mkEEuAlfCt_j49eV2-13" value="truckCapacity = 55 / logLength" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="270" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>

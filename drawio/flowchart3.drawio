@@ -28,7 +28,7 @@
                 <mxCell id="UU87T6980Cu5oJlrGXCf-49" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UU87T6980Cu5oJlrGXCf-47" target="44" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="UU87T6980Cu5oJlrGXCf-47" value="&lt;span&gt;truckCapacity = (1100 / 22) / logLength&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="UU87T6980Cu5oJlrGXCf-47" value="&lt;span&gt;truckCapacity = 55 / logLength&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="200" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
