@@ -15,8 +15,6 @@ const logLengthString = prompt('How long are your logs (m)? ')
 const logLength = parseFloat(logLengthString)
 const truckCapacity = 1100 / 20 / logLength
 
-console.log(
-  `You can fit ${truckCapacity} logs in a truck with a 1100kg capacity.`,
-)
+console.log(`You can fit ${truckCapacity} logs in a 1100kg capacity truck.`)
 
 console.log('\nDone.')
